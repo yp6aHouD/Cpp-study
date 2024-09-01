@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/yp6ahoud/projects/C++/125.ValidPalindrome'
+binary-path:     '/Users/yp6ahoud/projects/C++/LeetCode/125.ValidPalindrome'
 relocations:
   - { offsetInCU: 0x2F5C, offset: 0x2F5C, size: 0x8, addend: 0x0, symName: __ZNSt3__124__put_character_sequenceB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_PKS4_m, symObjAddr: 0xA48, symBinAddr: 0x100003350, symSize: 0x1EC }
   - { offsetInCU: 0x48C2, offset: 0x48C2, size: 0x8, addend: 0x0, symName: __ZNSt3__1lsB8ue170006INS_11char_traitsIcEEEERNS_13basic_ostreamIcT_EES6_PKc, symObjAddr: 0x23C, symBinAddr: 0x100002B44, symSize: 0x48 }
