@@ -10,7 +10,7 @@ public:
     bool isValidSudoku(vector<vector<char>>& board)
     {
         if (board.size() == 0) return false;
-
+        
         for (int i = 0; i < 9; i++)
         {
             unordered_set<char> rowSet;
