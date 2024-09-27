@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/yp6ahoud/projects/C++/Pintia/函数题/2-10"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003AB4, symSize: 0x1AC }
+  - { offsetInCU: 0xB7, offset: 0xB7, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003AB4, symSize: 0x1AC }
+  - { offsetInCU: 0x117, offset: 0x117, size: 0x8, addend: 0x0, symName: __Z6InsertP8HeadNodeii, symObjAddr: 0x1AC, symBinAddr: 0x100003C60, symSize: 0x1EC }
+  - { offsetInCU: 0x193, offset: 0x193, size: 0x8, addend: 0x0, symName: __Z6RemoveP8HeadNodei, symObjAddr: 0x398, symBinAddr: 0x100003E4C, symSize: 0x114 }
+...
