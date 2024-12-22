@@ -44,7 +44,13 @@
         "__split_buffer": "cpp",
         "array": "cpp",
         "memory": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "__hash_table": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "__node_handle": "cpp",
+        "optional": "cpp"
     },
     "cSpell.words": [
         "imax",
