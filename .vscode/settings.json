@@ -50,7 +50,10 @@
         "unordered_map": "cpp",
         "unordered_set": "cpp",
         "__node_handle": "cpp",
-        "optional": "cpp"
+        "optional": "cpp",
+        "print": "cpp",
+        "queue": "cpp",
+        "stack": "cpp"
     },
     "cSpell.words": [
         "imax",
